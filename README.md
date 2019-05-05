@@ -11,10 +11,8 @@ Project for DATS 6501 Capstone by Sheng Luo, Hao Cheng
 ### 3.Create_Texas_annual_data&PacificRegion_annual_data.ipynb
   Preprocess and save the annual Texas energy usage data and annual Pacific Region energy usage data.
   
-*The original data is too large to upload, please contact the author to access.*  
+ 
   
-
-
 ## Model training and evaluation
 ### 1.Annual_region2region_CycleGAN.ipynb
   Train and save the CycleGAN.
@@ -24,3 +22,4 @@ Project for DATS 6501 Capstone by Sheng Luo, Hao Cheng
   Restore the 2 trained model to generate data and do the evaluation.
   
 
+*The original data, hourly_data_PSTexas_trainingset.npy, trained model files are too large to upload, please contact the authors to access.* 
